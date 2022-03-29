@@ -1,1 +1,1 @@
-# Super-Resolution-SRCNN-
+# Super-Resolution-
